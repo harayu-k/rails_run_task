@@ -1,2 +1,6 @@
 [tools]
+ecspresso = '2.4.5'
 ruby = '3.4.1'
+
+[env]
+AWS_PROFILE = 'developer'
